@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20131ca3-da69-44f7-bae7-a009924809b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DB.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3_Lesson_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DBRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/DBRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DBUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB.db" beforeDir="false" afterPath="$PROJECT_DIR$/DB.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +47,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DBUpdate">
     <configuration name="DBRequest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DBRequest" />
       <module name="Java_3_Lesson_2" />
@@ -63,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DBUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBUpdate" />
+      <module name="Java_3_Lesson_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DBUpdate" />
         <item itemvalue="Application.DBRequest" />
       </list>
     </recent_temporary>
@@ -83,22 +83,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1595701593371">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1595702039643">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595701593371" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1595701593371">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595702039643" />
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom" timestamp="1595780040006">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595701593371" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1595701593371">
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595780040006" />
+    <state width="1323" height="186" key="GridCell.Tab.0.center" timestamp="1595780040004">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595701593371" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1595701593371">
+    <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595780040004" />
+    <state width="1323" height="186" key="GridCell.Tab.0.left" timestamp="1595780040004">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595701593371" />
+    <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595780040004" />
+    <state width="1323" height="186" key="GridCell.Tab.0.right" timestamp="1595780040006">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595780040006" />
     <state x="322" y="53" width="672" height="678" key="search.everywhere.popup" timestamp="1595700547547">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
