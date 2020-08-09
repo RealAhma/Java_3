@@ -12,6 +12,7 @@ import java.util.Collection;
 
 @RunWith(Parameterized.class)
 public class Test1 {
+
     @Parameterized.Parameters
     public static Collection<Object[]> Arrays() {
         return Arrays.asList(new Object[][]{
@@ -23,13 +24,16 @@ public class Test1 {
     }
 
     private Task1 task;
+
     private int[] x;
+
     private int[] y;
 
     public Test1(int[] x, int[] y) {
         this.x = x;
         this.y = y;
     }
+
     @Before
     public void init() {
         task = new Task1();
